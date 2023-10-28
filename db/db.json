@@ -4,18 +4,13 @@
         "text": "Test text"
     },
     {
-        "id": "fdadfa",
-        "title": "title",
-        "text": "text"
+        "title": "example",
+        "text": "example",
+        "id": "7317c9d4-4454-4b0a-b8fc-78f4dbc26aae"
     },
     {
-        "title": "title2",
-        "text": "text2",
-        "id": "930aee71-6021-4428-a05b-ad6d74cf17e4"
-    },
-    {
-        "title": "test3",
-        "text": "text3",
-        "id": "5ba5dfe7-b492-4ef0-84f9-9a8aa62add9b"
+        "title": "new note",
+        "text": "this is a new note",
+        "id": "7d3b3185-4bc4-41f2-bce4-5c35879a1a6b"
     }
 ]
